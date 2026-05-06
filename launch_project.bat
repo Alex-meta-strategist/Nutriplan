@@ -1,8 +1,3 @@
-@echo off
-setlocal
-
-REM Always run from this script's directory
-cd /d "%~dp0"
 
 REM Check virtual environment exists
 if not exist ".venv\Scripts\python.exe" (

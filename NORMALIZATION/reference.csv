@@ -1,0 +1,36 @@
+ALIGN;USDA;CIQUAL;OFF
+Name;description;alim_nom_fr;Product Name
+Energy (kJ/100g);Energy;Energie, Règlement UE N° 1169 2011 (kJ 100 g);energy-kj_100g
+Energy (kcal/100g);Energy;Energie, Règlement UE N° 1169 2011 (kcal 100 g);energy-kcal_100g
+Protein (g/100g);Protein;Protéines, N x facteur de Jones (g 100 g);proteins_100g
+Total Fat (g/100g);Total lipid (fat);Lipides (g 100 g);fat_100g
+Carbohydrates (g/100g);Carbohydrate, by difference;Glucides (g 100 g);carbohydrates_100g
+Sugars (g/100g);Total Sugars;Sucres (g 100 g);sugars_100g
+Added Sugars (g/100g);Sugars, added;None;added-sugars_100g
+Fiber (g/100g);Fiber, total dietary;Fibres alimentaires (g 100 g);fiber_100g
+Saturated Fat (g/100g);Fatty acids, total saturated;AG saturés (g 100 g);saturated-fat_100g
+Sodium (mg/100g);Sodium, Na;Sodium (mg 100 g);sodium_100g
+Salt (g/100g);None;Sel chlorure de sodium (g 100 g);salt_100g
+Cholesterol (mg/100g);Cholesterol;Cholestérol (mg 100 g);None
+Calcium (mg/100g);Calcium, Ca;Calcium (mg 100 g);None
+Iron (mg/100g);Iron, Fe;Fer (mg 100 g);None
+Vitamin C (mg/100g);Vitamin C, total ascorbic acid;Vitamine C (mg 100 g);None
+Water (g/100g);Water;Eau (g 100 g);None
+Ash (g/100g);Ash;Cendres (g 100 g);None
+Alcohol (g/100g);Alcohol, ethyl;Alcool (éthanol) (g 100 g);None
+Potassium (mg/100g);Potassium, K;Potassium (mg 100 g);None
+Magnesium (mg/100g);Magnesium, Mg;Magnésium (mg 100 g);None
+Phosphorus (mg/100g);Phosphorus, P;Phosphore (mg 100 g);None
+Zinc (mg/100g);Zinc, Zn;Zinc (mg 100 g);None
+Vitamin A (IU or µg/100g);Vitamin A, IU;Activité vitaminique A, équivalents rétinol (µg 100 g);None
+Vitamin D (µg/100g);Vitamin D (D2 + D3);Vitamine D (µg 100 g);None
+Vitamin E (mg/100g);Vitamin E (alpha-tocopherol);Vitamine E (mg 100 g);None
+Vitamin K (µg/100g);Vitamin K (phylloquinone);Vitamine K1 (µg 100 g);None
+Thiamin B1 (mg/100g);Thiamin;Vitamine B1 ou Thiamine (mg 100 g);None
+Riboflavin B2 (mg/100g);Riboflavin;Vitamine B2 ou Riboflavine (mg 100 g);None
+Niacin B3 (mg/100g);Niacin;Vitamine B3 ou PP ou Niacine (mg 100 g);None
+Vitamin B6 (mg/100g);Vitamin B-6;Vitamine B6 (mg 100 g);None
+Folate (µg/100g);Folate, total;Vitamine B9 ou Folates totaux (µg 100 g);None
+Vitamin B12 (µg/100g);Vitamin B-12;Vitamine B12 (µg 100 g);None
+SFA 16:0 Palmitic (g/100g);SFA 16:0;AG 16:0, palmitique (g 100 g);None
+MUFA 18:1 Oleic (g/100g);MUFA 18:1;AG 18:1 9c (n-9), oléique (g 100 g);None
